@@ -3,7 +3,7 @@ These two scripts of python code are written to grab information from a CSV file
 
 ## PyBank
 This python code is specifically writen to analysis a CSV file that contains Profit/Lose information for each month over mulitple years.
-## How does it work?
 
 
-##PyPoll
+
+## PyPoll
